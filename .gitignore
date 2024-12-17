@@ -1,0 +1,7 @@
+myvenv/
+tictactoe_v1.py
+tictactoe_v2.py
+tictactoe_v3.py
+play_tic_tac_toe_ai.py
+train_tic_tac_toe_ai.py
+trained_ai_agent_1.pkl
